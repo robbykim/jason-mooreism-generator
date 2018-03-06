@@ -1,0 +1,48 @@
+body {
+  background: black;
+}
+
+.container {
+  margin: 20px auto 0;
+  width: 60%;
+  text-align: center;
+}
+
+.jasonism-container {
+  min-height: 300px;
+}
+
+#jasonism {
+  font-family: sans-serif;
+  font-size: 70px;
+  padding-top: 100px;
+  display: block;
+  color: #42AC4D;
+}
+
+.logo {
+  height: 70px;
+  margin-right: 12px;
+}
+
+.title {
+  color: white;
+  font-family: sans-serif;
+  margin-top: 10px;
+  display: block;
+}
+
+.generator {
+  display: block;
+  color: white;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+
+#jason-button {
+  background: #42AC4D;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  font-size: 25px;
+}
