@@ -22,7 +22,11 @@ var ROOTS = [
   'fantasy',
   'chocolate',
   'keaton',
-  'michael',
+  'purvey',
+  'underwear',
+  'king',
+  'champ',
+  'arizona',
 ];
 
 var SUFFIXES = [
