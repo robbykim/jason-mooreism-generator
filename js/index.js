@@ -5,29 +5,28 @@ var PREFIXES = [
   'acro',
   'act',
   'ambi',
-  'ana',
-  'anim',
+  'de',
   'auto',
   'bio',
-  'col',
+  'dis',
 ];
 
 var ROOTS = [
-  'chrono',
-  'dict',
-  'gen',
-  'mand',
-  'phil',
-  'script',
-  'photo',
-  'phono',
-  'terr',
-  'vac'
+  'poop',
+  'fart',
+  'oreo',
+  'scapple',
+  'brooks',
+  'scooper',
+  'football',
+  'fantasy',
+  'chocolate',
+  'keaton',
+  'michael',
 ];
 
 var SUFFIXES = [
-  'acy',
-  'al',
+  'ly',
   'dom',
   'er',
   'ed',
