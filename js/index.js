@@ -9,6 +9,8 @@ var PREFIXES = [
   'auto',
   'bio',
   'dis',
+  'anti',
+  'un',
 ];
 
 var ROOTS = [
@@ -27,11 +29,20 @@ var ROOTS = [
   'king',
   'champ',
   'arizona',
+  'gump',
+  'incred',
+  'grammar',
+  'griz',
+  'ver',
+  'foot',
 ];
 
 var SUFFIXES = [
   'ly',
+  'eur',
+  'ers',
   'dom',
+  'ified',
   'er',
   'ed',
   'ist',
