@@ -101,3 +101,5 @@ function generateJasonism() {
 var button = document.getElementById('jason-button');
 
 button.onclick = function() { generateJasonism(); }
+
+generateJasonism();
