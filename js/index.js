@@ -88,14 +88,14 @@ var SUFFIXES = [
 
 function generateJasonism() {
   var prefix = PREFIXES[Math.floor(Math.random() * PREFIXES.length)]
-
   var root = ROOTS[Math.floor(Math.random() * ROOTS.length)]
-
   var suffix = SUFFIXES[Math.floor(Math.random() * SUFFIXES.length)]
 
-  var jason = document.getElementById('jasonism');
+  var jasonism = document.getElementById('jasonism');
+  var jasonismBrokenDown = document.getElementById('broken-down');
 
-  jason.innerHTML = prefix + root + suffix;
+  jasonism.innerHTML = prefix + root + suffix;
+  jasonismBrokenDown.innerHTML = prefix + ' - ' + root + ' - ' + suffix;
 }
 
 var button = document.getElementById('jason-button');
